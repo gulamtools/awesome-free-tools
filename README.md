@@ -63,7 +63,7 @@
 - [QrFast.io](https://qrfast.io) — A lightning-fast, zero-tracking QR code generator. Create highly customizable QR codes (URL, WiFi, vCard, WhatsApp) with custom dot styling, center logos, and vector SVG exports. See the [QR Code Engineering Guide](https://github.com/abdessamadbettal/qr-code-engineering-guide) for how QR matrix generation actually works.
 - [Split.tools](https://split.tools) - A versatile file splitting toolkit for handling images, PDFs, audio, and video documents. Easily slice visual grids, extract document page ranges, divide audio tracks with waveform markers, and segment video timeline clips.
 - [Stirling PDF](https://stirlingpdf.io) - Open-source, self-hostable toolkit for PDF operations such as merge, split, and convert.
-- - [ToolVerse US](https://toolverseus.com) — 1000+ free online tools: text, PDF, image, code, calculators and more. No sign-up, no watermarks.
+- [ToolVerse US](https://toolverseus.com) — 1000+ free online tools: text, PDF, image, code, calculators and more. No sign-up, no watermarks.
 - 
 - [Worldclock.tools](https://worldclock.tools) - A global time management suite featuring live local time for 34,043 cities worldwide. Streamline international scheduling with an interactive cross-timezone meeting planner alongside 36 specialized converters, timers, and developer utilities.
 
